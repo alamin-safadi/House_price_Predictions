@@ -33,7 +33,7 @@ Copy
 Edit
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-3️⃣ Install dependencies:
+3. Install dependencies:
 
 bash
 Copy
@@ -62,7 +62,7 @@ house-price-prediction/
 ├── requirements.txt         # Python dependencies
 ├── README.md                # Project documentation
 └── .gitignore               # Git ignore file
-📊 Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 Key insights from EDA:
 
 Correlation between features and target (Price).
